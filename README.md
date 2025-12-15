@@ -34,7 +34,7 @@ Syftet är att skapa en responsiv, säker och utbyggbar blogg för både publikt
 - Inloggning med bekräftad e-post
 
 ### Bildhantering
-- Bilder sparas i både GitHub och databasen via API  
+- Bilder lagras i ett separat GitHub-repository via API  
 - Order styr visningsordning, omslagsbild kan bytas  
 - Radering av bilder fungerar även för första bilden  
 
